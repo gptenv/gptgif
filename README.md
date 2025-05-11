@@ -1,1 +1,1 @@
-gptgif file archive ancoder and decoder tools
+gptgif file archive encoder and decoder tools
